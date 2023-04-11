@@ -24,7 +24,7 @@ env:
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
   FIRMWARE_TAG: Rockchip
-  TZ: Asia/Shanghai
+  TZ: Asia/Singapore
 
 jobs:
   Toolchain:
